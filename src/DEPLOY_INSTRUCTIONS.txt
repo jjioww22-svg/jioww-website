@@ -1,0 +1,37 @@
+====================================
+JIOWW GLOBAL - DEPLOYMENT TO VERCEL
+====================================
+
+IMPORTANT: This website is configured to be indexed by Google (no noindex tags).
+
+FILES TO UPLOAD TO GITHUB:
+==========================
+
+Essential Files (MUST upload):
+- package.json
+- index.html
+- vite.config.ts
+- tsconfig.json
+- tsconfig.node.json
+- .gitignore
+- vercel.json
+- /src/main.tsx
+- /App.tsx
+- /styles/globals.css
+- All files in /components/ folder
+- All files in /public/ folder
+
+After uploading to GitHub:
+1. Go to vercel.com
+2. Import your GitHub repository
+3. Deploy with default settings
+4. Add custom domain: jioww.com
+5. Update DNS records as shown by Vercel
+
+RESULT:
+- ✅ No more noindex tags
+- ✅ Google will be able to index your site
+- ✅ Full SEO control
+- ✅ Fast, reliable hosting
+
+Contact: admin@jioww.com

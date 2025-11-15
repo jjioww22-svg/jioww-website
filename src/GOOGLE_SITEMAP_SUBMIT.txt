@@ -1,0 +1,15 @@
+=====================================================
+COPY THIS TO GOOGLE SEARCH CONSOLE
+=====================================================
+
+sitemap.xml
+
+=====================================================
+
+BUT FIRST: Make sure www.jioww.com/sitemap.xml shows 
+XML code (not "Not Found")!
+
+If it shows "Not Found", your deployment is missing 
+files. Download fresh code and redeploy first!
+
+=====================================================

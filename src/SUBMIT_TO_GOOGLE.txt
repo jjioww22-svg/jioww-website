@@ -1,0 +1,26 @@
+=====================================================
+  COPY & PASTE THIS TO GOOGLE SEARCH CONSOLE
+=====================================================
+
+sitemap.xml
+
+=====================================================
+
+INSTRUCTIONS:
+
+1. Go to: https://search.google.com/search-console
+2. Click "Sitemaps" in left menu
+3. In the text box, paste: sitemap.xml
+4. Click "Submit"
+5. Wait 5 minutes
+6. Refresh page
+7. Should show: Success + 14 URLs discovered
+
+=====================================================
+
+TEST YOUR SITEMAP FIRST:
+
+Visit: https://www.jioww.com/sitemap.xml
+Should show XML code (not your website!)
+
+=====================================================
